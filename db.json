@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "spider",
+      "image": "https://www.plantvine.com/plants/Variegated-Spider-Plant-2.jpg",
+      "price": "25",
+      "id": 8
+    },
+    {
+      "name": "snake",
+      "image": "https://cdn.shopify.com/s/files/1/0114/6735/8272/products/Snake_Plant_Variegated_Black_Pot_Compressed.jpg?v=1610578004",
+      "price": "30",
+      "id": 9
     }
   ]
 }
